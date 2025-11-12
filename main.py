@@ -10,7 +10,7 @@ from datetime import datetime
 from flask import Flask, render_template, request, jsonify, session, send_file, Response
 import requests
 
-from frontend.utility import (
+from utility import (
     authenticate_user,
     generate_user_id,
     extract_pdf_references,
