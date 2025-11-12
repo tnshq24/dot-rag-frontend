@@ -1,0 +1,6 @@
+flask==2.3.3
+python-dotenv==1.0.0
+requests==2.32.3
+gunicorn==23.0.0
+PyMuPDF>=1.18.0
+scikit-learn>=1.0
